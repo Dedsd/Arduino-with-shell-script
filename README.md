@@ -26,7 +26,4 @@
 
 ### How it works
 
-#### With the lib nanpy we can connect with arduino serial and execute commands outside arduino ide and using python. Recognizing when the button is being pushed or not we trigger the led and run the shell script that opens applications, automates the application windows and creates an organized workspace. The shell script must be with permission for the python script execute.
-
-
-
+#### With the lib nanpy we can connect with arduino serial and execute commands outside arduino ide using python. Recognizing when the button is being pushed or not we trigger the led and run the shell script that opens applications, automates the application windows and creates an organized workspace. The shell script must be with permission for the python script execute. The `co` variable must be changed with the current usb that arduino is connected with.
