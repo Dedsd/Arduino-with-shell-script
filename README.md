@@ -1,4 +1,4 @@
-## Arduino with shell Script
+## Arduino with shell script
 #### Executing shell script that automate workspaces with python and arduino when pressed a push button
 
 ---
